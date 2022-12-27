@@ -1,0 +1,56 @@
+{
+  "Season2": {
+    "battlePassPurchased": true,
+    "battlePassTier": 11,
+    "battlePassXPBoost": 60,
+    "battlePassXPFriendBoost": 15
+  },
+  "Season3": {
+    "battlePassPurchased": false,
+    "battlePassTier": 1,
+    "battlePassXPBoost": 0,
+    "battlePassXPFriendBoost": 0
+  },
+  "Season4": {
+    "battlePassPurchased": false,
+    "battlePassTier": 1,
+    "battlePassXPBoost": 0,
+    "battlePassXPFriendBoost": 0
+  },
+  "Season5": {
+    "battlePassPurchased": false,
+    "battlePassTier": 1,
+    "battlePassXPBoost": 0,
+    "battlePassXPFriendBoost": 0
+  },
+  "Season6": {
+    "battlePassPurchased": false,
+    "battlePassTier": 1,
+    "battlePassXPBoost": 0,
+    "battlePassXPFriendBoost": 0
+  },
+  "Season7": {
+    "battlePassPurchased": false,
+    "battlePassTier": 1,
+    "battlePassXPBoost": 0,
+    "battlePassXPFriendBoost": 0
+  },
+  "Season8": {
+    "battlePassPurchased": false,
+    "battlePassTier": 1,
+    "battlePassXPBoost": 0,
+    "battlePassXPFriendBoost": 0
+  },
+  "Season9": {
+    "battlePassPurchased": false,
+    "battlePassTier": 1,
+    "battlePassXPBoost": 0,
+    "battlePassXPFriendBoost": 0
+  },
+  "Season10": {
+    "battlePassPurchased": true,
+    "battlePassTier": 26,
+    "battlePassXPBoost": 70,
+    "battlePassXPFriendBoost": 80
+  }
+}
